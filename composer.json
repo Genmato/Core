@@ -3,6 +3,7 @@
   "type": "magento-module",
   "description": "Genmato Core module used as base module for other Genmato extension for Magento 1.x",
   "homepage":"https://github.com/Genmato/Core",
+  "version":"17.4.1",
   "license": "OSL-3.0",
   "authors": [
     {

@@ -2,7 +2,7 @@
 <config>
     <modules>
         <Genmato_Core>
-            <version>16.248.1</version>
+            <version>17.4.1</version>
         </Genmato_Core>
     </modules>
     <global>
